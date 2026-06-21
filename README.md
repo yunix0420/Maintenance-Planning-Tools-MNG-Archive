@@ -1,6 +1,6 @@
 # Maintenance Planning Tools (MNG Airlines)
 
-These software tools were programmed during my internship at MNG Airlines to help fasten the workflow of the maintenance planning workers.
+These software tools were programmed during my internship at MNG Airlines in 2025 to help fasten the workflow of the maintenance planning workers.
 
 ## Project Overview
 
