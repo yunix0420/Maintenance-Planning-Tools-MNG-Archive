@@ -13,6 +13,8 @@ This repository contains two Python GUI applications designed to streamline data
 
 ## 1. Aircraft Mod Status Checker
 
+![Aircraft Mod Status Checker](assets/mng1.jpeg)
+
 ### Description
 This application allows the user to select an Excel database file and easily check the implementation status (PRE or POST) of specific Modification (Mod) numbers across multiple aircraft. It saves time by automating the lookup process that would otherwise be done manually in large spreadsheets.
 
@@ -26,6 +28,8 @@ This application allows the user to select an Excel database file and easily che
 ---
 
 ## 2. Excel Match Finder
+
+![Excel Match Finder](assets/mng2.jpeg)
 
 ### Description
 A utility designed to compare the contents of two distinct Excel (`.xlsx`) files. It scans all sheets and cells in both files and returns a list of any exact matching text values, regardless of their position or the sheet they are located in. 
